@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Martin Roth"
+  },
+  "text": {
+    "more": "Figure 10.2_alternative: Network Visualization of all Sampled Videos based on Shared User Comments, Colored by Language (jp \u003d orange, ko \u003d green, ch \u003d purple). Node Size based on Weighted Degree, Labels are YouTube Video IDs.",
+    "intro": "Figure 10.2_alternative: Network Visualization of all Sampled Videos based on Shared User Comments,  Colored by Language (jp \u003d orange, ko \u003d green, ch \u003d purple). Node Size based on Weighted Degree, Labels are YouTube Video IDs.",
+    "title": "Network Visualization of all Sampled Videos based on Shared User Comments Colored by Video Category"
+  },
+  "legend": {
+    "edgeLabel": "commenting users",
+    "colorLabel": "video category",
+    "nodeLabel": "videos"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
