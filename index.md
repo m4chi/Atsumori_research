@@ -9,9 +9,12 @@ Figure 10.1 Distribution of Categories in the Sampled Videos, Compared by Langua
 ![Distribution of Categories in the Sampled Videos](figures/Roth_Fig10.1_videocats_initialdataset_comparison.png)
 For the data, see this [table](tables/Roth_Table10.0_Data_ACNHYouTube_CountryComparison_Stats.csv)
 
-Figure 10.2 Network Visualization of all Sampled Videos based on Shared User Comments, Colored by Language (jp = grey, ko = light grey, ch = dark grey), Node Size based on Weighted Degree, Labels are YouTube Video IDs.
+Figure 10.2 Network Visualization of all Sampled Videos based on Shared User Comments, Colored by Language (jp = orange, ko = green, ch = purple), Node Size based on Weighted Degree, Labels are YouTube Video IDs.
 ![Network Visualization of all Sampled Videos based on Shared User Comments](figures/Roth_Fig10.2_videorelation_allvideos_allregions_full_countrycolor.svg)
-Explore this network in the [interactive version](networks/network10.2_country/index.html), and also have a look at an [alternative version colored by video categories](networks/network10.2_category/index.html).
+Explore this network in the [interactive version](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/3e12532ff2529036581f8eed219555f4/raw/5db0ccf40b453c40976cc0fbe3005f640bfe372a/network-1e185694-905.gexf), and also have a look at an [alternative color schema based on the video categories](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/2046fad48d325360e2b0904abc9a7b31/raw/218ed58f1d1efce9b849149c7eb33c982c6e24d8/network-53b77467-fcc.gexf).
+
+For the color codes, please refer to this list:
+![Color codes for the video categories](figures/ACNHYouTube_CategoryColorCodes.png)
 
 Table 10.1 Ten Videos with the Highest Weighted Degree (wd) per Language, Including Categories
 ![Fifteen Videos with the Highest Weighted Degree (wd) per Language](tables/Roth_Table10.1_CrossCountryComparisonWeightedDegree.csv)
@@ -21,7 +24,7 @@ Table 10.2 Fifteen Videos with the Highest Weighted Degree Commented on by Users
 
 Figure 10.3 Annotated Visualization of User Network, Users Related by Co-appearance in the Comments of a Video, Emphasized by Weighted Degree.
 ![Annotated Visualization of User Network](figures/Roth_Fig10.3_peoplerelations_allnofilter_allregions_sample1934_full_videotype_annotated.svg)
-Explore this network in the [interactive version](networks/network10.3/index.html).
+Explore this network in the [interactive version](networks/network10.3/index.html) (due to the number opf nodes this visualization could ).
 
 # Meta
 <!--- **Zenodo Repository Snapshots
