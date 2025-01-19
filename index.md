@@ -17,18 +17,18 @@ Explore this network in the [interactive version](https://ouestware.gitlab.io/re
 
 ### [Table 10.1 Ten Videos with the Highest Weighted Degree (wd) per Language, Including Categories](tables/Roth_Table10.1_CrossCountryComparisonWeightedDegree.csv)
 
-| Japanese | wd | category | channel | Korean | wd | category | channel | Chinese | wd | category | channel |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| tM1eKXldWdk | 2482 | entertainment | HikakinGames | JM_bcMvK_S0 | 4744 | entertainment | Heun-han-nam-mae | I1lebC_9YMI | 539 | walkthrough | Wei Wei |
-| n11w5Wb5jY8 | 2455 | entertainment | Ri’inu-kun no sabuchanneru! | RUSvx6R6Qas | 4591 | entertainment | Heun-han-nam-mae | zfoPBvy_u9o | 523 | walkthrough | Yu Le Lerü |
-| 5n-CAMtzujo | 2190 | derivate | Chīnya channeru | GYMy0WkIXAA | 4349 | entertainment | Heun-han-nam-mae | KHjy79YbcH4 | 413 | review | An JiuMi |
-| s07hc5RO4oM | 2143 | derivate | Chīnya channeru | MfirSV9azwQ | 3119 | walkthrough | Gong-lyong | UqqxbHisW8U | 391 | entertainment | NyoNyo Ri Chang Shi Kuang |
-| FNf-TIU0xpk | 2041 | derivate | Chīnya channeru | I-jLrWcyNJw | 3115 | exhibition | Sseon-syas YouTube | XjjaHjFj1zY | 365 | walkthrough | Yu Le Lerü |
-| fWMX7-MplXM | 2011 | entertainment | HikakinGames | 6FvvylWS5TU | 2774 | walkthrough | Gong-lyong | laa5QLoNvrY | 365 | walkthrough | Yu Le Lerü |
-| UZ6NYuNW4Ng | 1970 | derivate | Chīnya channeru | xHgjyjV1c8c | 2773 | commentary | Ssom-ttamTV SsomDDam | KM4YSzC55YY | 349 | commentary | Dio Chan |
-| fYPLEfo0uoI | 1875 | derivate | Chīnya channeru | 8pnz2ADkjY8 | 2689 | walkthrough | Gong-lyong | 7Fl_FuZKBB8 | 335 | entertainment | KIKI You Xi Shi Kuang |
-| -Ww-2Ldji1k | 1845 | commentary | Yukkī GAME wārudo | f993Rta8tEg | 2618 | walkthrough | Gong-lyong | bfxjUX7bGzQ | 334 | entertainment | NyoNyo Ri Chang Shi Kuang |
-| lzQQlFPY27Q | 1841 | derivate | Chīnya channeru | j-KaIWW55Ls | 2527 | music | Gong-lyong | zB_JOnIiV3s | 329 | review | Yu Le Lerü |  
+Japanese | wd | category | channel | Korean | wd | category | channel | Chinese | wd | category | channel
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+tM1eKXldWdk | 2482 | entertainment | HikakinGames | JM_bcMvK_S0 | 4744 | entertainment | Heun-han-nam-mae | I1lebC_9YMI | 539 | walkthrough | Wei Wei
+n11w5Wb5jY8 | 2455 | entertainment | Ri’inu-kun no sabuchanneru! | RUSvx6R6Qas | 4591 | entertainment | Heun-han-nam-mae | zfoPBvy_u9o | 523 | walkthrough | Yu Le Lerü
+5n-CAMtzujo | 2190 | derivate | Chīnya channeru | GYMy0WkIXAA | 4349 | entertainment | Heun-han-nam-mae | KHjy79YbcH4 | 413 | review | An JiuMi
+s07hc5RO4oM | 2143 | derivate | Chīnya channeru | MfirSV9azwQ | 3119 | walkthrough | Gong-lyong | UqqxbHisW8U | 391 | entertainment | NyoNyo Ri Chang Shi Kuang
+FNf-TIU0xpk | 2041 | derivate | Chīnya channeru | I-jLrWcyNJw | 3115 | exhibition | Sseon-syas YouTube | XjjaHjFj1zY | 365 | walkthrough | Yu Le Lerü
+fWMX7-MplXM | 2011 | entertainment | HikakinGames | 6FvvylWS5TU | 2774 | walkthrough | Gong-lyong | laa5QLoNvrY | 365 | walkthrough | Yu Le Lerü
+UZ6NYuNW4Ng | 1970 | derivate | Chīnya channeru | xHgjyjV1c8c | 2773 | commentary | Ssom-ttamTV SsomDDam | KM4YSzC55YY | 349 | commentary | Dio Chan
+fYPLEfo0uoI | 1875 | derivate | Chīnya channeru | 8pnz2ADkjY8 | 2689 | walkthrough | Gong-lyong | 7Fl_FuZKBB8 | 335 | entertainment | KIKI You Xi Shi Kuang
+-Ww-2Ldji1k | 1845 | commentary | Yukkī GAME wārudo | f993Rta8tEg | 2618 | walkthrough | Gong-lyong | bfxjUX7bGzQ | 334 | entertainment | NyoNyo Ri Chang Shi Kuang
+lzQQlFPY27Q | 1841 | derivate | Chīnya channeru | j-KaIWW55Ls | 2527 | music | Gong-lyong | zB_JOnIiV3s | 329 | review | Yu Le Lerü  
 
 ### [Table 10.2 Fifteen Videos with the Highest Weighted Degree Commented on by Users who also Comment on Videos in Other Languages](tables/Roth_Table10.2_CrossCountryBridgesWeightedDegree.csv)
 
