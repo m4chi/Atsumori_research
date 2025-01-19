@@ -16,6 +16,7 @@ Explore this network in the [interactive version](https://ouestware.gitlab.io/re
 ![Color codes for the video categories](figures/ACNHYouTube_CategoryColorCodes.png)  
 
 ### [Table 10.1 Ten Videos with the Highest Weighted Degree (wd) per Language, Including Categories](tables/Roth_Table10.1_CrossCountryComparisonWeightedDegree.csv)
+
 | Japanese | wd | category | channel | Korean | wd | category | channel | Chinese | wd | category | channel |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | tM1eKXldWdk | 2482 | entertainment | HikakinGames | JM_bcMvK_S0 | 4744 | entertainment | Heun-han-nam-mae | I1lebC_9YMI | 539 | walkthrough | Wei Wei |
@@ -30,6 +31,7 @@ Explore this network in the [interactive version](https://ouestware.gitlab.io/re
 | lzQQlFPY27Q | 1841 | derivate | Chīnya channeru | j-KaIWW55Ls | 2527 | music | Gong-lyong | zB_JOnIiV3s | 329 | review | Yu Le Lerü |  
 
 ### [Table 10.2 Fifteen Videos with the Highest Weighted Degree Commented on by Users who also Comment on Videos in Other Languages](tables/Roth_Table10.2_CrossCountryBridgesWeightedDegree.csv)
+
 | Video id | language | wd | type | channel |
 | --- | --- | --- | --- | --- |
 | 7r8-DcNMUtw | ko | 291 | music | Minimel |
