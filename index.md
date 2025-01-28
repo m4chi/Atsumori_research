@@ -55,10 +55,13 @@ lzQQlFPY27Q | 1841 | derivate | Chīnya channeru | j-KaIWW55Ls | 2527 | music | 
 Explore this network in the [interactive version](networks/network10.3/index.html) (due to the number of nodes this visualization could not be made available as gist).  
 
 ### Meta
-<!--- **Zenodo Repository Snapshots
-[![DOI](https://zenodo.org/badge/326400336.svg)](https://zenodo.org/badge/latestdoi/326400336) --->
+
+**Zenodo Repository Snapshots**
+[![DOI](https://zenodo.org/badge/445385078.svg)](https://doi.org/10.5281/zenodo.14752739)
+
 **License**
 [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0)
 ![license](https://i.creativecommons.org/l/by/4.0/80x15.png)
+
 **Copyright**
 2025 Martin Roth [roth1003@fc.ritsumei.ac.jp](roth1003@fc.ritsumei.ac.jp)
